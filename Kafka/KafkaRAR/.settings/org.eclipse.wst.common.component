@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="kafka-rar">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/rar" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <dependent-module deploy-path="/" handle="module:/classpath/var/M2_REPO/org/apache/kafka/kafka-clients/2.5.1/kafka-clients-2.5.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/classpath/var/M2_REPO/com/github/luben/zstd-jni/1.4.4-7/zstd-jni-1.4.4-7.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/classpath/var/M2_REPO/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/classpath/var/M2_REPO/org/xerial/snappy/snappy-java/1.1.7.3/snappy-java-1.1.7.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module deploy-path="/" handle="module:/classpath/var/M2_REPO/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="kafka-jca-api-0.6.1.jar" deploy-path="/" handle="module:/resource/kafka-jca-api/kafka-jca-api">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="java-output-path" value="/kafka-rar/target/classes"/>
+            
+    </wb-module>
+    
+</project-modules>

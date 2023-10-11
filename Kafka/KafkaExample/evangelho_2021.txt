@@ -1,0 +1,141 @@
+Data     : 08/Feb/2021
+Capítulo : 17
+Item 	 : 11
+
+Data     : 15/Feb/2021
+Capítulo : 22
+Item 	 : 5
+
+Data     : 22/Feb/2021
+Capítulo : 1
+Item 	 : 9
+
+Data     : 01/Mar/2021
+Capítulo : 13
+Item 	 : 1
+
+Data     : 08/Mar/2021
+Capítulo : 1
+Item 	 : 1
+
+Data     : 15/Mar/2021
+Capítulo : 10
+Item 	 : 1
+
+Data     : 22/Mar/2021
+Capítulo : 4
+Item 	 : 18
+
+Data     : 29/Mar/2021
+Capítulo : 24
+Item 	 : 15
+
+Data     : 05/Apr/2021
+Capítulo : 9
+Item 	 : 2
+
+Data     : 12/Apr/2021
+Capítulo : 17
+Item 	 : 7
+
+Data     : 19/Apr/2021
+Capítulo : 3
+Item 	 : 9
+
+Data     : 26/Apr/2021
+Capítulo : 25
+Item 	 : 4
+
+Data     : 03/May/2021
+Capítulo : 15
+Item 	 : 4
+
+Data     : 10/May/2021
+Capítulo : 10
+Item 	 : 15
+
+Data     : 17/May/2021
+Capítulo : 10
+Item 	 : 3
+
+Data     : 24/May/2021
+Capítulo : 6
+Item 	 : 4
+
+Data     : 31/May/2021
+Capítulo : 27
+Item 	 : 9
+
+Data     : 07/Jun/2021
+Capítulo : 8
+Item 	 : 3
+
+Data     : 14/Jun/2021
+Capítulo : 18
+Item 	 : 7
+
+Data     : 21/Jun/2021
+Capítulo : 14
+Item 	 : 3
+
+Data     : 28/Jun/2021
+Capítulo : 17
+Item 	 : 2
+
+Data     : 05/Jul/2021
+Capítulo : 24
+Item 	 : 1
+
+Data     : 12/Jul/2021
+Capítulo : 10
+Item 	 : 14
+
+Data     : 19/Jul/2021
+Capítulo : 11
+Item 	 : 1
+
+Data     : 26/Jul/2021
+Capítulo : 14
+Item 	 : 9
+
+Data     : 02/Aug/2021
+Capítulo : 1
+Item 	 : 8
+
+Data     : 09/Aug/2021
+Capítulo : 6
+Item 	 : 6
+
+Data     : 16/Aug/2021
+Capítulo : 20
+Item 	 : 3
+
+Data     : 23/Aug/2021
+Capítulo : 25
+Item 	 : 11
+
+Data     : 30/Aug/2021
+Capítulo : 14
+Item 	 : 5
+
+Data     : 18/Oct/2021
+Capítulo : 6
+Item 	 : 4
+
+Data     : 26/Oct/2021
+Capítulo : 3
+Item 	 : 8
+
+Data     : 26/Oct/2021
+Capítulo : 14
+Item 	 : 2
+
+Data     : 26/Oct/2021
+Capítulo : 23
+Item 	 : 15
+
+Data     : 26/Oct/2021
+Capítulo : 6
+Item 	 : 6
+
+
